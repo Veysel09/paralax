@@ -59,3 +59,21 @@ html {
 .backgroundDunkelText {
   font-size: 0.7rem;
 }
+.header {
+  background-color: black;
+  padding: 0.7rem;
+  letter-spacing: 0.2rem;
+  border-radius: 1.2rem 0 1.2rem 0;
+  outline: 0.4rem inset purple;
+  outline-offset: 0.2rem;
+  line-height: 2rem;
+}
+
+.headerTitle {
+  color: white;
+  font-size: 1.7rem;
+}
+
+.image2 img {
+  width: 33%;
+}
